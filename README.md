@@ -31,7 +31,7 @@ The primary goal of this analysis is to provide insights into the logistics perf
 #### **Shipment Trend Analysis:**
 •	The report also highlights trends over the months and years, giving insights into the growth and challenges in shipment deliveries.  
 
-### <a href=https://github.com/Ibradeknoni/Logistics-Analysis-Report/blob/main/InProgress_Logistics_Data_Page_2.jpg">Shipment Forecasting by Shipping Mode
+### <a href="https://github.com/Ibradeknoni/Logistics-Analysis-Report/blob/main/InProgress_Logistics_Data_Page_2.jpg">Shipment Forecasting by Shipping Mode
 #### Key Insights:
 **Jet Shipments:**  
 •	11,775 shipments are expected to be delivered by Jet, with High priority shipments accounting for 4,002 of the deliveries.  
