@@ -19,7 +19,8 @@ The primary goal of this analysis is to provide insights into the logistics perf
 ### Overview of Shipment Status
 #### Key Insights:
 #### **Completed Shipments:**
-•	Total completed shipments stand at 16.74K, with a 25% increase compared to the previous year.  <a href="https://github.com/Ibradeknoni/Logistics-Analysis-Report/blob/main/Completed_Logistics_Data_Page_1.jpg">Overview<a/a>  
+•	Total completed shipments stand at 16.74K, with a 25% increase compared to the previous year. - <a href="https://github.com/Ibradeknoni/Logistics-Analysis-Report/blob/main/Completed_Logistics_Data_Page_1.jpg">Overview<a/a>  
+
 •	The value of completed shipments is $11.32M, with a 25% increase from the previous year.  
 •	The average shipment time is 10 days, with Bus having the fastest delivery time at 9.7 days, and Motorbikes being the slowest at 10.4 days.  
 
