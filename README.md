@@ -16,11 +16,10 @@ The primary goal of this analysis is to provide insights into the logistics perf
 4.	Assess customer satisfaction based on shipment performance, delivery time, and feedback on different shipment types.
 5.	Highlight areas where improvements can be made in logistics efficiency, such as reducing delivery time or improving customer satisfaction.
 
-### Overview of Shipment Status
+### <a href="https://github.com/Ibradeknoni/Logistics-Analysis-Report/blob/main/Completed_Logistics_Data_Page_1.jpg">Overview of Shipment Status
 #### Key Insights:
 #### **Completed Shipments:**
-•	Total completed shipments stand at 16.74K, with a 25% increase compared to the previous year. <a href="https://github.com/Ibradeknoni/Logistics-Analysis-Report/blob/main/Completed_Logistics_Data_Page_1.jpg">Overview  
-
+•	Total completed shipments stand at 16.74K, with a 25% increase compared to the previous year.  
 •	The value of completed shipments is $11.32M, with a 25% increase from the previous year.  
 •	The average shipment time is 10 days, with Bus having the fastest delivery time at 9.7 days, and Motorbikes being the slowest at 10.4 days.  
 
