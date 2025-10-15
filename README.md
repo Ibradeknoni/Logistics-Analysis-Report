@@ -59,9 +59,9 @@ The primary goal of this analysis is to provide insights into the logistics perf
 This comprehensive Logistics Analysis Report allows stakeholders to get a clear picture of shipment performance, identify priority issues, and take action to improve logistics efficiency. The insights gained from this analysis can assist in enhancing shipment delivery timelines, optimizing transportation modes, and improving customer satisfaction.  
 
 ### Key Recommendations:
-•	Focus on improving the delivery times for Motorbike and Lorry shipments.
-•	Prioritize high-value and high-priority shipments to ensure they are delivered promptly.
-•	Use the regional insights to optimize shipment routes and carrier performance.
+•	Focus on improving the delivery times for Motorbike and Lorry shipments.  
+•	Prioritize high-value and high-priority shipments to ensure they are delivered promptly.  
+•	Use the regional insights to optimize shipment routes and carrier performance.  
 
 
 
