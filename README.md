@@ -21,7 +21,7 @@ The primary goal of this analysis is to provide insights into the logistics perf
 #### **Completed Shipments:**
 •	Total completed shipments stand at 16.74K, with a 25% increase compared to the previous year.  
 •	The value of completed shipments is $11.32M, with a 25% increase from the previous year.  
-•	The average shipment time is 9.7 days, with Jets having the fastest delivery time at 10.1 days, and Motorbikes being the slowest at 9.9 days.  
+•	The average shipment time is 10 days, with Bus having the fastest delivery time at 9.7 days, and Motorbikes being the slowest at 10.4 days.  
 
 #### **In Progress Shipments:**
 •	47.46K shipments are still in progress, with a 25% increase compared to last year.  
